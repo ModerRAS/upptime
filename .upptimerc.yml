@@ -12,8 +12,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: 喵星人聚居地
+    url: https://miaostay.com
+  - name: 喵星人聚居地-Blogger
+    url: https://miaostay.blogspot.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
