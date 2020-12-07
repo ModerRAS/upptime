@@ -10,15 +10,15 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: 喵星人聚居地
+  - name: Miao Stay Blog
     url: https://miaostay.com
-  - name: 喵星人游戏区
+  - name: Miao Stay Games
     url: https://flash.miaostay.com
-  - name: 喵星人书站
+  - name: Miao Stay Books
     url: https://books.miaostay.com
-  - name: Drone CI
+  - name: Miao Stay CI
     url: https://ci.miaostay.com
-  - name: 喵星人聚居地-Blogger
+  - name: MiBlogger
     url: https://miaostay.blogspot.com
 
 status-website:
