@@ -14,6 +14,12 @@ sites:
     url: https://thissitedoesnotexist.com
   - name: 喵星人聚居地
     url: https://miaostay.com
+  - name: 喵星人游戏区
+    url: https://flash.miaostay.com
+  - name: 喵星人书站
+    url: https://books.miaostay.com
+  - name: Drone CI
+    url: https://ci.miaostay.com
   - name: 喵星人聚居地-Blogger
     url: https://miaostay.blogspot.com
 
