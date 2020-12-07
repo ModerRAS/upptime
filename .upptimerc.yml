@@ -10,8 +10,6 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: 喵星人聚居地
     url: https://miaostay.com
   - name: 喵星人游戏区
