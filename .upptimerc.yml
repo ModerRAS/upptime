@@ -20,6 +20,18 @@ sites:
     url: https://ci.miaostay.com
   - name: MiBlogger
     url: https://miaostay.blogspot.com
+  - name: Miao Stay CDN
+    url: https://cdn.miaostay.com
+  - name: Miao Stay API
+    url: https://api.miaostay.com
+  - name: Miao Stay Bitwarden
+    url: https://bitwarden.miaostay.com
+  - name: Miao Stay Jellyfin
+    url: https://jellyfin.miaostay.com
+  - name: Miao Stay Jellyfin Coal
+    url: https://zjctcucm.nat.coalcloud.xyz:33186
+  - name: Miao Stay Matrix
+    url: https://matrix.miaostay.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
